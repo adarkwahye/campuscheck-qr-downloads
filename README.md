@@ -4,4 +4,4 @@ Public APK downloads for CampusCheck QR.
 
 Direct APK:
 
-https://adarkwahye.github.io/campuscheck-qr-downloads/downloads/CampusCheckQR-1.0.3+4.apk
+https://adarkwahye.github.io/campuscheck-qr-downloads/downloads/CampusCheckQR-1.0.4+5.apk
